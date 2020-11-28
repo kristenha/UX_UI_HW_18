@@ -575,19 +575,19 @@ color: #FFFFFF;
 @media only screen and (max-width: 600px) {
   .flexcontainer{
     border-color: 1px solid blue;
-    /* margin:0px 5%;
+    margin:0px 5%;
     display:grid;
     position: relative;
     border:1px solid red;
-    grid-template-rows: 33.3% 33.3% 33.3%;
-    grid-template-columns: 50% 50%;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
     grid-template-areas: 
     "funfacts-t1" 
     "funfacts-s1"
     "funfacts-t2"
     "funfacts-s2" 
     "funfacts-t3"
-    "funfacts-s3"; */
+    "funfacts-s3"; 
   }
 }
 /*MY WORK SECTION*/
